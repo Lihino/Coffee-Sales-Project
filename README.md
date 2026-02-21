@@ -1,13 +1,13 @@
 # Coffee-Sales-Project
 
-Welcome to the **Health project** repository!
-This project demonstrates a comprehensive Health project, from cleaning Health data to generating actionable insights. Designed as a portfolio project highlights industry best practices in data analytics.
+Welcome to the **Coffee Sales Project** repository!
+This project demonstrates a comprehensive Sales project, from cleaning Sales data to generating actionable insights. Designed as a portfolio project highlights industry best practices in data analytics.
 
 ---
 ## Project Overview
 
 This project involves:
-1. **Data Cleaning:** Cleaning health data and assigning names to numeric datasets which can prove complex to analyze
+1. **Data Cleaning:** Cleaning sales data and assigning names to numeric datasets which can prove complex to analyze
 2. **ETL Pipelines:** Extracting, transforming, and loading data from source systems into excel.
 3. **Analytical & Reporting:** Creating Excel-based reports and dashboard for actionable insights.
 
@@ -24,7 +24,7 @@ ________________________________________________________________________________
 ### Cleaning the Data (Data Analytics)
 
 #### Objective
-Clean Health data using Microsoft Excel to consolidate Health data, enabling analytical reporting and informed decision making.
+Clean Sales data using Microsoft Excel to consolidate Sales data, enabling analytical reporting and informed decision making.
 
 #### Specifications
 - **Data Sources**: Import data from source provided as CSV files.
@@ -38,13 +38,13 @@ Clean Health data using Microsoft Excel to consolidate Health data, enabling ana
 
 #### Objectives
 Develop Excel-based dashboard analytics to deliver detailed insights into:
-- **Patient's Gender**
-- **Patient's Occupation**
-- **Average Physical Activity of Patient**
-- **Patient's Blood Pressure Range**
+- **Total Sales Over-time**
+- **Sales by Country**
+- **Top 5 Customers**
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
-<img width="1068" height="566" alt="image" src="https://github.com/user-attachments/assets/79319e7b-3ad6-4391-a52d-1cb43f1f0974" />
+<img width="1912" height="992" alt="image" src="https://github.com/user-attachments/assets/3c954290-467e-426a-90ca-ed7734ef8e61" />
+
 
 ---
 ## License
